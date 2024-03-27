@@ -1,9 +1,9 @@
 # SnowSQL config
 
 [connections.dev]
-accountname = myaccount
-username = myusername
-password = mypassword
+accountname = https://eq78472.west-us-2.azure.snowflakecomputing.com
+username = KCORNIA
+password = Damoose38*
 rolename = HOL_ROLE
 warehousename = HOL_WH
 dbname = HOL_DB
